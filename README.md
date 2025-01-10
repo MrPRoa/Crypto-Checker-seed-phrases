@@ -1,7 +1,11 @@
 # Crypto Balance Checker
 
 A powerful Windows desktop application designed to check cryptocurrency balances across multiple blockchain networks effortlessly.
+
 Need NET 8.0 - https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+
+Non virus or backdors - https://www.virustotal.com/gui/file-analysis/Njc2OTUwYjE3NThiZWY1MDE5NGNkODM3MTNlZWE5Y2I6MTczNjQ5MDU5NA==
+
 
 ![Crypto Balance Checker Screenshot](https://github.com/user-attachments/assets/98a0c769-7ce7-42cd-bf77-d45373d2fdf5)
 
