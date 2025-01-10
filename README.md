@@ -30,6 +30,10 @@ Need NET 8.0 - https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
 ---
 
+Filter - 
+![image](https://github.com/user-attachments/assets/f677a251-babb-4cd7-bad9-8d8514f3cbb7)
+
+
 ## 🛠️ Installation
 
 1. **Download the Latest Release**:
