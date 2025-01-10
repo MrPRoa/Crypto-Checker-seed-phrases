@@ -49,3 +49,11 @@ This software is provided "as is", without warranty of any kind, express or impl
 Use at your own risk: The authors of this software are not responsible for any financial losses, data breaches, or damages caused by its use.
 Security Note: Ensure you use the software on a secure and trusted device. Never share your private keys or mnemonics with unauthorized parties.
 Legal Compliance: The use of this software may be subject to laws and regulations in your jurisdiction. Make sure to comply with local laws.
+
+Donate
+TRX - TEyYrZuxGCewuMtpwTZwB1nn8ArZgBhkNq
+BTC -	bc1q6scrwqpkhm9e7mfxvvc2ag7pr8gtjhq9gnq92c
+BEP20 -	0xaC31A81E17d3eb3177026C03DaC1E4C6f2282d68
+
+
+
