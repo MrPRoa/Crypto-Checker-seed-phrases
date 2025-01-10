@@ -1,38 +1,39 @@
 # Crypto Balance Checker
 
-A Windows desktop application for checking cryptocurrency balances across multiple networks.
+A powerful Windows desktop application designed to check cryptocurrency balances across multiple blockchain networks effortlessly.
 
-![image](https://github.com/user-attachments/assets/98a0c769-7ce7-42cd-bf77-d45373d2fdf5)
+![Crypto Balance Checker Screenshot](https://github.com/user-attachments/assets/98a0c769-7ce7-42cd-bf77-d45373d2fdf5)
 
-## Features
+## 🚀 Features
 
-- Check balances across multiple networks:
-  - Bitcoin (BTC)
-  - Ethereum (ETH)
-  - Binance Smart Chain (BNB)
-  - Litecoin (LTC)
-  - Solana (SOL)
-  - Polygon (MATIC)
-  - Avalanche (AVAX)
-  - Polkadot (DOT)
-  - Arbitrum (ARB)
+- **Multi-Network Support**:
+  - 🌐 Bitcoin (BTC)
+  - 🌐 Ethereum (ETH)
+  - 🌐 Binance Smart Chain (BNB)
+  - 🌐 Litecoin (LTC)
+  - 🌐 Solana (SOL)
+  - 🌐 Polygon (MATIC)
+  - 🌐 Avalanche (AVAX)
+  - 🌐 Polkadot (DOT)
+  - 🌐 Arbitrum (ARB)
+- **Batch Processing**:
+  - Import and process multiple mnemonic phrases simultaneously.
+- **Real-Time Balance Updates**:
+  - Stay up-to-date with accurate account balances.
+- **User-Friendly Interface**:
+  - Clean and intuitive design for seamless navigation.
+- **Custom Network Selection**:
+  - Choose specific networks to optimize queries.
+- **Detailed Transaction History**:
+  - View comprehensive transaction logs for transparency.
 
-- Batch processing of multiple mnemonic phrases
-- Real-time balance updates
-- User-friendly interface
-- Optional network selection
-- Detailed transaction history
+---
 
-## Installation
+## 🛠️ Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/CryptoChecker/releases) page
-2. Extract the zip file
-3. Run `CryptoChecker.exe`
-
-## Building from Source
-
-### Prerequisites
-
-- Visual Studio 2022
-- .NET 8.0 SDK
-- Windows 10/11
+1. **Download the Latest Release**:
+   - Navigate to the [Releases]([https://github.com/yourusername/CryptoChecker/releases](https://github.com/MrPRoa/Crypto-Checker-seed-phrases/releases/tag/Release)) page and download the latest version.
+2. **Extract the ZIP File**:
+   - Unzip the downloaded file to your preferred location.
+3. **Run the Application**:
+   - Double-click on `CryptoChecker.exe` to launch the app.
