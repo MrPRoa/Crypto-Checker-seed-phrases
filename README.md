@@ -1,4 +1,4 @@
-# Crypto Balance Checker
+# Crypto Balance Checker seed phrases
 
 A powerful Windows desktop application designed to check cryptocurrency balances across multiple blockchain networks effortlessly.
 
