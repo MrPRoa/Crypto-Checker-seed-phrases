@@ -6,7 +6,11 @@ Need NET 8.0 - https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
 Non virus or backdors - https://www.virustotal.com/gui/file-analysis/Njc2OTUwYjE3NThiZWY1MDE5NGNkODM3MTNlZWE5Y2I6MTczNjQ5MDU5NA==
 
-![Crypto Balance Checker Screenshot](https://github.com/user-attachments/assets/98a0c769-7ce7-42cd-bf77-d45373d2fdf5)
+![image](https://github.com/user-attachments/assets/1df4d17e-ebf9-4782-80e9-b82ef76d77aa)
+
+![image](https://github.com/user-attachments/assets/8b49a6d1-c45a-437b-8fcd-abe929638573)
+
+
 
 ## 🚀 Features
 
