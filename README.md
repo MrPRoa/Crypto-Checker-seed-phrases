@@ -8,7 +8,8 @@ Need NET 8.0 - https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
 Non virus or backdors - https://www.virustotal.com/gui/file-analysis/Njc2OTUwYjE3NThiZWY1MDE5NGNkODM3MTNlZWE5Y2I6MTczNjQ5MDU5NA==
 
-![image](https://github.com/user-attachments/assets/2324e20f-c250-419c-be7b-5c72a2009880)
+![image](https://github.com/user-attachments/assets/eba0b6de-0520-4682-95bd-4968ebc3b870)
+
 
 
 ![image](https://github.com/user-attachments/assets/8b49a6d1-c45a-437b-8fcd-abe929638573)
