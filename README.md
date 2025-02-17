@@ -29,6 +29,8 @@ https://youtu.be/RANoUUQ5NAA
   - 🌐 Avalanche (AVAX)
   - 🌐 Polkadot (DOT)
   - 🌐 Arbitrum (ARB + USDT ARB20)
+  - 🌐 Tron (TRX + USDT TRC20)
+  - 🌐 Ripple (XRP)
 
 - **Advanced Features**:
   - 📊 Export results to Excel
@@ -37,20 +39,39 @@ https://youtu.be/RANoUUQ5NAA
   - 💰 USDT balance checking
   - ⚡ Fast parallel checking
   - 🔄 Real-time balance updates
+  - 💸 Auto Withdraw System
+  - 🔐 Smart fee calculation
+  - 📈 Dynamic gas optimization
+  - 🎯 Customizable minimum withdrawal amount
+
+- **Auto Withdraw Features**:
+  - 🔄 Automatic 80/20 split (80% user, 20% development)
+  - ⚡ Smart gas fee management
+  - 🛡️ Built-in safety reserves
+  - 📝 Customizable withdrawal address
+  - 🎚️ Adjustable minimum withdrawal threshold
+  - 🔒 Enable/Disable auto withdraw option
 
 - **User-Friendly Interface**:
   - Clean and intuitive design
   - Custom network selection
   - Batch phrase processing
   - Progress indication
+  - Status notifications
+  - Network status monitoring
 
 ## 🆕 Latest Updates
+- Added Auto Withdraw functionality with 80/20 split
+- Added customizable withdrawal settings
+- Added smart fee calculation system
+- Added TRX and USDT TRC20 support
 - Added Excel export functionality
 - Added hide zero balances option
 - Added click-to-copy feature
 - Added USDT balance checking
 - Improved balance checking stability
 - Added more RPC endpoints
+- Added dynamic gas optimization
 
 ## 🛠️ Installation
 
