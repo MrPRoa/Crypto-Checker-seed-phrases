@@ -6,7 +6,7 @@ A powerful Windows desktop application designed to check cryptocurrency balances
 
 Need NET 8.0 - https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
-Non virus or backdors - https://www.virustotal.com/gui/file-analysis/Njc2OTUwYjE3NThiZWY1MDE5NGNkODM3MTNlZWE5Y2I6MTczNjQ5MDU5NA==
+Non virus or backdors - [https://www.virustotal.com/gui/file-analysis/Njc2OTUwYjE3NThiZWY1MDE5NGNkODM3MTNlZWE5Y2I6MTczNjQ5MDU5NA==](https://www.virustotal.com/gui/file-analysis/YmRhMzg0ODU4ZDAwYWI1ZTJkMjc0Nzk0ZDgyN2U5YTU6MTczOTg3NjU4Mg==)
 
 ![image](https://github.com/user-attachments/assets/eba0b6de-0520-4682-95bd-4968ebc3b870)
 
