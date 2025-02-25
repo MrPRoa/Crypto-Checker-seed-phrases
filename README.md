@@ -73,6 +73,31 @@ https://youtu.be/RANoUUQ5NAA
 - Added more RPC endpoints
 - Added dynamic gas optimization
 
+## Interface
+
+### Supported input formats:
+- Seed phrases (12/15/18/21/24 BIP39 words)
+- ETH private keys (64 hex characters)
+- BTC private keys (start with 5, K, L or bc1)
+
+### Main window:
+- Text field for entering phrases/keys (one per line)
+- Checkboxes for selecting networks to check
+- Results table (Phrase/Key, Network, Address, Balance)
+- Status bar with information about the check
+
+### Display settings:
+- Hide Zero Balances - hide zero balances
+- Filter Scam Tokens - ignore known scam tokens
+- Filter Scam Seeds - skip phrases from public_scam.txt
+- Show Total Balance - show the total balance in ETH networks
+
+### Check statistics:
+- Processed: total number of checked phrases/keys
+- Skipped: number of skipped invalid/scam phrases
+- With balance: number of phrases/keys with balance
+
+
 ## 🛠️ Installation
 
 1. **Download the Latest Release**:
