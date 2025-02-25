@@ -114,10 +114,6 @@ This software is provided "as is", without warranty of any kind, express or impl
 - Never share private keys
 - Comply with local laws
 
-## 💎 Donate
-- TRX: TEyYrZuxGCewuMtpwTZwB1nn8ArZgBhkNq
-- BTC: bc1q6scrwqpkhm9e7mfxvvc2ag7pr8gtjhq9gnq92c
-- BEP20: 0xaC31A81E17d3eb3177026C03DaC1E4C6f2282d68
 
 
 
