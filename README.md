@@ -8,7 +8,8 @@ Need NET 8.0 - https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
 Non virus or backdors - [https://www.virustotal.com/gui/file-analysis/Njc2OTUwYjE3NThiZWY1MDE5NGNkODM3MTNlZWE5Y2I6MTczNjQ5MDU5NA==](https://www.virustotal.com/gui/file-analysis/YmRhMzg0ODU4ZDAwYWI1ZTJkMjc0Nzk0ZDgyN2U5YTU6MTczOTg3NjU4Mg==)
 
-![image](https://github.com/user-attachments/assets/eba0b6de-0520-4682-95bd-4968ebc3b870)
+![image](https://github.com/user-attachments/assets/8bae1723-5575-4f6a-83d1-97d3bc35331b)
+
 
 
 
@@ -34,6 +35,11 @@ https://youtu.be/RANoUUQ5NAA
 
 - **Advanced Features**:
   - 📊 Export results to Excel
+  - 🔑 Multi-format private key support
+  - 🔄 Automatic key format detection
+  - 🔄 TRX Multisig wallet support
+  - 📝 Automatic scam wallet detection
+  - 🗑️ Auto-adding to public_scam.txt
   - 🔍 Hide zero balances option
   - 📋 Click-to-copy any cell
   - 💰 USDT balance checking
@@ -61,6 +67,17 @@ https://youtu.be/RANoUUQ5NAA
   - Network status monitoring
 
 ## 🆕 Latest Updates
+- Added TRX Multisig wallet checking
+- Added automatic scam wallet detection
+- Added zero-balance addresses to public_scam.txt
+- Added backup API system for major networks
+- Improved error handling for API requests
+- Enhanced rate limiting for better stability
+- Added multiple RPC endpoints for better reliability
+- Added backup API keys for TronGrid and other services
+- Improved Solana balance checking with Solscan API v2
+- Enhanced error handling and rate limiting
+- Added automatic fallback to backup APIs
 - Added Auto Withdraw functionality with 80/20 split
 - Added customizable withdrawal settings
 - Added smart fee calculation system
@@ -78,7 +95,7 @@ https://youtu.be/RANoUUQ5NAA
 ### Supported input formats:
 - Seed phrases (12/15/18/21/24 BIP39 words)
 - ETH private keys (64 hex characters)
-- BTC private keys (start with 5, K, L or bc1)
+- BTC private keys (start with  bc1)
 
 ### Main window:
 - Text field for entering phrases/keys (one per line)
@@ -89,7 +106,7 @@ https://youtu.be/RANoUUQ5NAA
 ### Display settings:
 - Hide Zero Balances - hide zero balances
 - Filter Scam Tokens - ignore known scam tokens
-- Filter Scam Seeds - skip phrases from public_scam.txt
+- Filter Scam Seeds - skip phrases and addresses from public_scam.txt (auto-updated)
 - Show Total Balance - show the total balance in ETH networks
 
 ### Check statistics:
@@ -113,7 +130,3 @@ This software is provided "as is", without warranty of any kind, express or impl
 - Ensure secure device usage
 - Never share private keys
 - Comply with local laws
-
-
-
-
