@@ -4,8 +4,6 @@
 
 A powerful Windows desktop application designed to check cryptocurrency balances across multiple blockchain networks effortlessly.
 
-Need NET 8.0 - https://dotnet.microsoft.com/en-us/download/dotnet/8.0
-
 Non virus or backdors - 
 .exe - https://www.virustotal.com/gui/file/43706694f1a3a1da56eadf64b3dfb0eebb2f4497ffc50743eae4be829fc6650c
 .rar - https://www.virustotal.com/gui/file/0161866ac287f3385d12c46e5db89a285aa948f67e3cf3dc16be0d5f084bdd55
