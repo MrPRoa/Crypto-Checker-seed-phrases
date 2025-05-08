@@ -1,6 +1,7 @@
 ![github-snake-dark](https://github.com/user-attachments/assets/c54140b8-7ad4-40f4-8ca2-afb76105616b)
 
 # Crypto Balance Checker seed phrases
+[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?logo=telegram)](https://t.me/notcoin2055)
 
 A powerful Windows desktop application designed to check cryptocurrency balances across multiple blockchain networks effortlessly.
 
