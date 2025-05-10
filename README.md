@@ -15,7 +15,7 @@ Non virus or backdors -
 
 ![image](https://github.com/user-attachments/assets/e8f03b52-bcf9-49c0-8589-43c567b3491f)
 
-Video [https://youtu.be/GSS7JSboTUg?si=SILRRJlKItc0_chz](https://youtu.be/qODOVAG_QPs)
+Video https://youtu.be/qODOVAG_QPs
 
 
 ## 🚀 Features
