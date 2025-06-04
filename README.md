@@ -15,8 +15,10 @@ Non virus or backdors -
 
 ![image](https://github.com/user-attachments/assets/e8f03b52-bcf9-49c0-8589-43c567b3491f)
 
-Video https://youtu.be/qODOVAG_QPs
+![image](https://github.com/user-attachments/assets/4c83c84d-e984-4158-bdde-495eef3bc2f7)
 
+
+Video https://youtu.be/qODOVAG_QPs
 
 ## 🚀 Features
 
@@ -30,8 +32,25 @@ Video https://youtu.be/qODOVAG_QPs
   - 🌐 Avalanche (AVAX)
   - 🌐 Polkadot (DOT)
   - 🌐 Arbitrum (ARB + USDT ARB20)
+  - 🌐 **Base (ETH)** - ⭐ **NEW!**
   - 🌐 Tron (TRX + USDT TRC20)
   - 🌐 Ripple (XRP)
+
+- **🌍 Multi-Language Support**: ⭐ **NEW!**
+  - 🇺🇸 English
+  - 🇷🇺 Russian (Русский)
+  - 🇨🇳 Chinese (中文)
+  - 🇫🇷 French (Français)
+  - 🇪🇸 Spanish (Español)
+  - 🇸🇦 Arabic (العربية)
+  - 🇮🇳 Hindi (हिन्दी)
+
+- **🔄 Seed to Private Key Converter**: ⭐ **NEW!**
+  - 🔑 Convert seed phrases to private keys for all supported networks
+  - ⚡ Multi-threaded processing for ultra-fast conversion
+  - 📊 Export results to CSV/Excel format
+  - 🎯 Selective network conversion
+  - 📋 Copy any generated key with one click
 
 - **Advanced Features**:
   - 📊 Export results to Excel
@@ -43,7 +62,7 @@ Video https://youtu.be/qODOVAG_QPs
   - 🔍 Hide zero balances option
   - 📋 Click-to-copy any cell
   - 💰 USDT balance checking
-  - ⚡ Fast parallel checking
+  - ⚡ **Multi-threaded processing** - ⭐ **NEW!**
   - 🔄 Real-time balance updates
   - 💸 Auto Withdraw System
   - 🔐 Smart fee calculation
@@ -65,43 +84,60 @@ Video https://youtu.be/qODOVAG_QPs
   - Progress indication
   - Status notifications
   - Network status monitoring
+  - **Multi-tab interface** - ⭐ **NEW!**
 
-## 🆕 Latest Updates
-- Added TRX Multisig wallet checking
-- Added automatic scam wallet detection
-- Added zero-balance addresses to public_scam.txt
-- Added backup API system for major networks
-- Improved error handling for API requests
-- Enhanced rate limiting for better stability
-- Added multiple RPC endpoints for better reliability
-- Added backup API keys for TronGrid and other services
-- Improved Solana balance checking with Solscan API v2
-- Enhanced error handling and rate limiting
-- Added automatic fallback to backup APIs
-- Added Auto Withdraw functionality with 80/20 split
-- Added customizable withdrawal settings
-- Added smart fee calculation system
-- Added TRX and USDT TRC20 support
-- Added Excel export functionality
-- Added hide zero balances option
-- Added click-to-copy feature
-- Added USDT balance checking
-- Improved balance checking stability
-- Added more RPC endpoints
-- Added dynamic gas optimization
+## 🆕 Latest Updates (Version 3.0)
+
+### 🌟 Major New Features:
+- **🌍 Multi-Language Interface**: Complete internationalization with 7 languages support
+- **🔄 Seed to Private Key Converter**: New dedicated tab for converting seed phrases to private keys
+- **🌐 Base Network Support**: Full integration with Base Layer 2 network (Coinbase)
+- **⚡ Multi-Threading**: Significantly improved performance with parallel processing
+- **📱 Enhanced UI**: New tab-based interface for better organization
+
+### 🔧 Performance Improvements:
+- **Multi-threaded balance checking**: Utilizes all CPU cores for faster processing
+- **Parallel seed phrase conversion**: Up to 10x faster private key generation
+- **Optimized memory usage**: Better resource management for large datasets
+- **Improved error handling**: More robust exception management
+- **Enhanced rate limiting**: Better API quota management
+
+### 🛡️ Security Enhancements:
+- **Base network gas optimization**: Smart fee calculation for Base transactions
+- **Improved multisig detection**: Enhanced TRX multisig wallet identification
+- **Better scam detection**: Advanced filtering algorithms
+- **Secure key generation**: Cryptographically secure private key derivation
+
+### 🌐 Network Updates:
+- **Base (ETH)**: Full support for Coinbase's Layer 2 solution
+- **Enhanced RPC endpoints**: More reliable blockchain connections
+- **Backup API systems**: Automatic failover for better uptime
+- **Gas optimization**: Smart fee calculation across all networks
 
 ## Interface
+
+### Main Features:
+1. **Balance Checker Tab**:
+   - Check balances across all supported networks
+   - Multi-format input support (seed phrases, private keys)
+   - Real-time balance updates
+   - Export to Excel functionality
+
+2. **Seed to Private Key Converter Tab**: ⭐ **NEW!**
+   - Convert seed phrases to private keys for any network
+   - Multi-threaded processing for fast conversion
+   - Selective network conversion
+   - Export results to CSV/Excel
+
+3. **Wallet Extension Checker Tab**:
+   - Analyze browser wallet extensions
+   - Extract wallet data and passwords
+   - Comprehensive wallet analysis
 
 ### Supported input formats:
 - Seed phrases (12/15/18/21/24 BIP39 words)
 - ETH private keys (64 hex characters)
-- BTC private keys (start with  bc1)
-
-### Main window:
-- Text field for entering phrases/keys (one per line)
-- Checkboxes for selecting networks to check
-- Results table (Phrase/Key, Network, Address, Balance)
-- Status bar with information about the check
+- BTC private keys (start with bc1)
 
 ### Display settings:
 - Hide Zero Balances - hide zero balances
@@ -114,7 +150,6 @@ Video https://youtu.be/qODOVAG_QPs
 - Skipped: number of skipped invalid/scam phrases
 - With balance: number of phrases/keys with balance
 
-
 ## 🛠️ Installation
 
 1. **Download the Latest Release**:
@@ -123,6 +158,33 @@ Video https://youtu.be/qODOVAG_QPs
    - Unzip the downloaded file to your preferred location
 3. **Run the Application**:
    - Double-click on `CryptoChecker.exe` to launch
+4. **Select Language**: ⭐ **NEW!**
+   - Choose your preferred language from the dropdown menu
+   - Application will restart to apply language changes
+
+## 📋 System Requirements
+
+- **Operating System**: Windows 10/11 (64-bit)
+- **Memory**: 4GB RAM minimum, 8GB recommended
+- **Storage**: 500MB free space
+- **Network**: Internet connection required for balance checking
+
+## 🌐 Supported Networks & Fees
+
+| Network | Symbol | Native Currency | Gas Optimization |
+|---------|--------|----------------|------------------|
+| Bitcoin | BTC | Bitcoin | ✅ |
+| Ethereum | ETH | Ether | ✅ |
+| Binance Smart Chain | BSC | BNB | ✅ |
+| Polygon | MATIC | MATIC | ✅ |
+| Avalanche | AVAX | AVAX | ✅ |
+| Arbitrum | ARB | ETH | ✅ |
+| **Base** | **BASE** | **ETH** | ✅ **NEW!** |
+| Tron | TRX | TRX | ✅ |
+| Solana | SOL | SOL | ✅ |
+| Litecoin | LTC | Litecoin | ✅ |
+| Ripple | XRP | XRP | ✅ |
+
 
 ## ⚠️ Disclaimer
 This software is provided "as is", without warranty of any kind, express or implied.
