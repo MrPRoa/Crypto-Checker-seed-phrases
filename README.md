@@ -86,7 +86,7 @@ Video https://youtu.be/qODOVAG_QPs
   - Network status monitoring
   - **Multi-tab interface** - ⭐ **NEW!**
 
-## 🆕 Latest Updates (Version 3.0)
+## 🆕 Latest Updates (Version 4.1)
 
 ### 🌟 Major New Features:
 - **🌍 Multi-Language Interface**: Complete internationalization with 7 languages support
