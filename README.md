@@ -19,7 +19,8 @@ Non virus or backdors -
 
 ![image](https://github.com/user-attachments/assets/e8f03b52-bcf9-49c0-8589-43c567b3491f)
 
-![image](https://github.com/user-attachments/assets/4c83c84d-e984-4158-bdde-495eef3bc2f7)
+<img width="1366" height="786" alt="image" src="https://github.com/user-attachments/assets/b4d669b7-0621-4105-9647-a609fe8d8b68" />
+
 
 
 Video https://youtu.be/qODOVAG_QPs
