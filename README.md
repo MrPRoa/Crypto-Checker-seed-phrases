@@ -189,13 +189,13 @@ Video https://youtu.be/qODOVAG_QPs
 
 VirusTotal:
 Crypto.Checker.seed.phrases.4.5.win-x86.zip
-https://www.virustotal.com/gui/file/aad33426cab992f732ee3c11a6a7044fad2cbc17c12dbfe9b426801cf17305a9/detection
+https://www.virustotal.com/gui/file/3def5b16ff5574c59cdbb15f42d93217c9523ddad5cdecaf15c99f71e48db727
 
 Crypto.Checker.seed.phrases.4.5.win-arm64.zip
-https://www.virustotal.com/gui/file/53fb6b5bf1f18052a96bbbeb8f940ac85dab968837cc8bbcc60fe54a86a220b6?nocache=1
+https://www.virustotal.com/gui/file/4681c5fffa2d65996794e233e02af2fe3856b3446ae335374d4acda3169ca053
 
 Crypto.Checker.seed.phrases.4.5.win-x64.zip
-https://www.virustotal.com/gui/file/51f9a9ed41f461d2c2dba380442cf403dd3173a9eb5d28c279cbe7bf440e266c/detection
+https://www.virustotal.com/gui/file/8992f5236a41981c1f30f7e630b79f6ae01451294ee73b0e595493a530558aea
 
 ## ⚠️ Disclaimer
 This software is provided "as is", without warranty of any kind, express or implied.
