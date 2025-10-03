@@ -6,16 +6,12 @@
 A powerful Windows desktop application designed to check cryptocurrency balances across multiple blockchain networks effortlessly.
 
 Last version
-https://github.com/MrPRoa/Crypto-Checker-seed-phrases/releases/tag/v4.3
+https://github.com/MrPRoa/Crypto-Checker-seed-phrases/releases/tag/v4.5
 
-Non virus or backdors - 
+<img width="1678" height="862" alt="checker crypto" src="https://github.com/user-attachments/assets/fb0c6af9-3dbc-41c9-a5d0-e3b55427505e" />
 
-.exe - [https://www.virustotal.com/gui/file/43706694f1a3a1da56eadf64b3dfb0eebb2f4497ffc50743eae4be829fc6650c](https://www.virustotal.com/gui/file/7bfab7431e36c4e714c7e9d4d2403ad5f61b7b0c4a160f158e722e68db93d770)
-.zip - [https://www.virustotal.com/gui/file/0161866ac287f3385d12c46e5db89a285aa948f67e3cf3dc16be0d5f084bdd55](https://www.virustotal.com/gui/file/8523da4c7b736ba2fde09669982367d31ce9090692a634a08894ab2bc5e2438f?nocache=1)
+<img width="1678" height="863" alt="logs checker" src="https://github.com/user-attachments/assets/fa6facd1-5395-4925-99b6-da24fa9b7369" />
 
-<img width="1373" height="783" alt="image" src="https://github.com/user-attachments/assets/1e5dcfd3-e24c-4968-a3f0-53c6c3750764" />
-
-![image](https://github.com/user-attachments/assets/418d54cf-404a-4a5f-95d5-6503982a800b)
 
 ![image](https://github.com/user-attachments/assets/e8f03b52-bcf9-49c0-8589-43c567b3491f)
 
@@ -190,6 +186,16 @@ Video https://youtu.be/qODOVAG_QPs
 | Litecoin | LTC | Litecoin | ✅ |
 | Ripple | XRP | XRP | ✅ |
 
+
+VirusTotal:
+Crypto.Checker.seed.phrases.4.5.win-x86.zip
+https://www.virustotal.com/gui/file/aad33426cab992f732ee3c11a6a7044fad2cbc17c12dbfe9b426801cf17305a9/detection
+
+Crypto.Checker.seed.phrases.4.5.win-arm64.zip
+https://www.virustotal.com/gui/file/53fb6b5bf1f18052a96bbbeb8f940ac85dab968837cc8bbcc60fe54a86a220b6?nocache=1
+
+Crypto.Checker.seed.phrases.4.5.win-x64.zip
+https://www.virustotal.com/gui/file/51f9a9ed41f461d2c2dba380442cf403dd3173a9eb5d28c279cbe7bf440e266c/detection
 
 ## ⚠️ Disclaimer
 This software is provided "as is", without warranty of any kind, express or implied.
